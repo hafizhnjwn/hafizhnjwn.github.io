@@ -1,0 +1,81 @@
+.container
+{
+        font-family: Arial, Helvetica, sans-serif;
+        border-radius: 6vw;
+        width: 60vw;
+        height: 50vw;
+        padding: 2px;
+        margin: auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        display: flex;
+        font-size: vw;
+
+}
+.div1
+{
+        background-color: antiquewhite;
+        border-radius: 4vw;
+        width: 90vw;
+        padding: 10px;
+        margin-right: 10px;
+}
+.div1 img
+{
+        width: 10vw;
+        height: 10vw;
+        border-radius: 200px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        
+}
+.div1 .nama
+{
+        font-size: 1.6vw;
+        text-align: center;
+        margin-bottom: 1.5vw;
+}
+.div1 .kontak {
+        font-size: 1.2vw;
+        color: grey;
+        margin-left: 1vw;
+}
+.div1 h2
+{
+        margin-top: 1vw;
+        font-size: 1.5vw;
+        margin-left: 1vw;
+}
+.div1 ul{
+        font-size: 1.2vw;
+        text-align: left;
+}
+.div2{
+        margin-top: 1vw;
+        margin-bottom: 3vw;
+        padding: 2vw;
+        
+}
+.div2 h2{
+        margin-top: 1vw;
+        font-size: 2vw;
+        margin-left: 1vw;
+        background-color: bisque;
+        border-radius: 1vw;
+        text-align: center;
+        display: inline;
+}
+.div2 p{
+        font-size: 1.2vw;
+        text-align: left;
+
+}
+.div2 ul{
+        font-size: 1.2vw;
+}
+hr 
+  {
+    max-width: 43;
+    margin-left: 0;
+  }
